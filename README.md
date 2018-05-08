@@ -1,0 +1,1 @@
+https://hidden-gorge-33835.herokuapp.com/resolutions
